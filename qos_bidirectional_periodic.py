@@ -6,7 +6,6 @@ import sys
 import re
 import time
 
-#test
 # Regular expression to parse iperf3 UDP interval output.
 # Expected format (example):
 # [  5]   0.00-10.00 sec  7.65 MBytes  6.41 Mbits/sec  0.089 ms  0/555 (0%)
